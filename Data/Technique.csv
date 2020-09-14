@@ -1,0 +1,245 @@
+Name,ID,Description,Internal ID
+.bash_profile and .bashrc,T1156,,1
+Access Token Manipulation,T1134,,2
+Accessibility Features,T1015,,3
+Account Discovery,T1087,,4
+Account Manipulation,T1098,,5
+AppCert DLLs,T1182,,6
+AppInit DLLs,T1103,,7
+AppleScript,T1155,,8
+Application Deployment Software,T1017,,9
+Application Shimming,T1138,,10
+Application Window Discovery,T1010,,11
+Audio Capture,T1123,,12
+Authentication Package,T1131,,13
+Automated Collection,T1119,,14
+Automated Exfiltration,T1020,,15
+Bash History,T1139,,16
+Binary Padding,T1009,,17
+BITS Jobs,T1197,,18
+Bootkit,T1067,,19
+Browser Bookmark Discovery,T1217,,20
+Browser Extensions,T1176,,21
+Brute Force,T1110,,22
+Bypass User Account Control,T1088,,23
+Change Default File Association,T1042,,24
+Clear Command History,T1146,,25
+Clipboard Data,T1115,,26
+CMSTP,T1191,,27
+Code Signing,T1116,,28
+Command-Line Interface,T1059,,29
+Commonly Used Port,T1043,,30
+Communication Through Removable Media,T1092,,31
+Compile After Delivery,T1500,,32
+Compiled HTML File,T1223,,33
+Component Firmware,T1109,,34
+Component Object Model and Distributed COM,T1175,,35
+Component Object Model Hijacking,T1122,,36
+Connection Proxy,T1090,,37
+Control Panel Items,T1196,,38
+Create Account,T1136,,39
+Credential Dumping,T1003,,40
+Credentials in Files,T1081,,41
+Credentials in Registry,T1214,,42
+Custom Command and Control Protocol,T1094,,43
+Custom Cryptographic Protocol,T1024,,44
+Data Compressed,T1002,,45
+Data Destruction,T1485,,46
+Data Encoding,T1132,,47
+Data Encrypted,T1022,,48
+Data Encrypted for Impact,T1486,,49
+Data from Information Repositories,T1213,,50
+Data from Local System,T1005,,51
+Data from Network Shared Drive,T1039,,52
+Data from Removable Media,T1025,,53
+Data Obfuscation,T1001,,54
+Data Staged,T1074,,55
+Data Transfer Size Limits,T1030,,56
+DCShadow,T1207,,57
+Defacement,T1491,,58
+Deobfuscate/Decode Files or Information,T1140,,59
+Disabling Security Tools,T1089,,60
+Disk Content Wipe,T1488,,61
+Disk Structure Wipe,T1487,,62
+DLL Search Order Hijacking,T1038,,63
+DLL Side-Loading,T1073,,64
+Domain Fronting,T1172,,65
+Domain Generation Algorithms,T1483,,66
+Domain Trust Discovery,T1482,,67
+Drive-by Compromise,T1189,,68
+Dylib Hijacking,T1157,,69
+Dynamic Data Exchange,T1173,,70
+Email Collection,T1114,,71
+Endpoint Denial of Service,T1499,,72
+Execution Guardrails,T1480,,73
+Execution through API,T1106,,74
+Execution through Module Load,T1129,,75
+Exfiltration Over Alternative Protocol,T1048,,76
+Exfiltration Over Command and Control Channel,T1041,,77
+Exfiltration Over Other Network Medium,T1011,,78
+Exfiltration Over Physical Medium,T1052,,79
+Exploit Public-Facing Application,T1190,,80
+Exploitation for Client Execution,T1203,,81
+Exploitation for Credential Access,T1212,,82
+Exploitation for Defense Evasion,T1211,,83
+Exploitation for Privilege Escalation,T1068,,84
+Exploitation of Remote Services,T1210,,85
+External Remote Services,T1133,,86
+Extra Window Memory Injection,T1181,,87
+Fallback Channels,T1008,,88
+File and Directory Discovery,T1083,,89
+File and Directory Permissions Modification,T1222,,90
+File Deletion,T1107,,91
+File System Logical Offsets,T1006,,92
+File System Permissions Weakness,T1044,,93
+Firmware Corruption,T1495,,94
+Forced Authentication,T1187,,95
+Gatekeeper Bypass,T1144,,96
+Graphical User Interface,T1061,,97
+Group Policy Modification,T1484,,98
+Hardware Additions,T1200,,99
+Hidden Files and Directories,T1158,,100
+Hidden Users,T1147,,101
+Hidden Window,T1143,,102
+HISTCONTROL,T1148,,103
+Hooking,T1179,,104
+Hypervisor,T1062,,105
+Image File Execution Options Injection,T1183,,106
+Indicator Blocking,T1054,,107
+Indicator Removal from Tools,T1066,,108
+Indicator Removal on Host,T1070,,109
+Indirect Command Execution,T1202,,110
+Inhibit System Recovery,T1490,,111
+Input Capture,T1056,,112
+Input Prompt,T1141,,113
+Install Root Certificate,T1130,,114
+InstallUtil,T1118,,115
+Kerberoasting,T1208,,116
+Kernel Modules and Extensions,T1215,,117
+Keychain,T1142,,118
+Launch Agent,T1159,,119
+Launch Daemon,T1160,,120
+Launchctl,T1152,,121
+LC_LOAD_DYLIB Addition,T1161,,122
+LC_MAIN Hijacking,T1149,,123
+LLMNR/NBT-NS Poisoning and Relay,T1171,,124
+Local Job Scheduling,T1168,,125
+Login Item,T1162,,126
+Logon Scripts,T1037,,127
+LSASS Driver,T1177,,128
+Man in the Browser,T1185,,129
+Masquerading,T1036,,130
+Modify Existing Service,T1031,,131
+Modify Registry,T1112,,132
+Mshta,T1170,,133
+Multiband Communication,T1026,,134
+Multi-hop Proxy,T1188,,135
+Multilayer Encryption,T1079,,136
+Multi-Stage Channels,T1104,,137
+Netsh Helper DLL,T1128,,138
+Network Denial of Service,T1498,,139
+Network Service Scanning,T1046,,140
+Network Share Connection Removal,T1126,,141
+Network Share Discovery,T1135,,142
+Network Sniffing,T1040,,143
+New Service,T1050,,144
+NTFS File Attributes,T1096,,145
+Obfuscated Files or Information,T1027,,146
+Office Application Startup,T1137,,147
+Pass the Hash,T1075,,148
+Pass the Ticket,T1097,,149
+Password Filter DLL,T1174,,150
+Password Policy Discovery,T1201,,151
+Path Interception,T1034,,152
+Peripheral Device Discovery,T1120,,153
+Permission Groups Discovery,T1069,,154
+Plist Modification,T1150,,155
+Port Knocking,T1205,,156
+Port Monitors,T1013,,157
+PowerShell,T1086,,158
+Private Keys,T1145,,159
+Process Discovery,T1057,,160
+Process Doppelgänging,T1186,,161
+Process Hollowing,T1093,,162
+Process Injection,T1055,,163
+Query Registry,T1012,,164
+Rc.common,T1163,,165
+Redundant Access,T1108,,166
+Registry Run Keys / Startup Folder,T1060,,167
+Regsvcs/Regasm,T1121,,168
+Regsvr32,T1117,,169
+Remote Access Tools,T1219,,170
+Remote Desktop Protocol,T1076,,171
+Remote File Copy,T1105,,172
+Remote Services,T1021,,173
+Remote System Discovery,T1018,,174
+Re-opened Applications,T1164,,175
+Replication Through Removable Media,T1091,,176
+Resource Hijacking,T1496,,177
+Rootkit,T1014,,178
+Rundll32,T1085,,179
+Runtime Data Manipulation,T1494,,180
+Scheduled Task,T1053,,181
+Scheduled Transfer,T1029,,182
+Screen Capture,T1113,,183
+Screensaver,T1180,,184
+Scripting,T1064,,185
+Security Software Discovery,T1063,,186
+Security Support Provider,T1101,,187
+Securityd Memory,T1167,,188
+Service Execution,T1035,,189
+Service Registry Permissions Weakness,T1058,,190
+Service Stop,T1489,,191
+Setuid and Setgid,T1166,,192
+Shared Webroot,T1051,,193
+Shortcut Modification,T1023,,194
+SID-History Injection,T1178,,195
+Signed Binary Proxy Execution,T1218,,196
+Signed Script Proxy Execution,T1216,,197
+SIP and Trust Provider Hijacking,T1198,,198
+Software Packing,T1045,,199
+Source,T1153,,200
+Space after Filename,T1151,,201
+Spearphishing Attachment,T1193,,202
+Spearphishing Link,T1192,,203
+Spearphishing via Service,T1194,,204
+SSH Hijacking,T1184,,205
+Standard Application Layer Protocol,T1071,,206
+Standard Cryptographic Protocol,T1032,,207
+Standard Non-Application Layer Protocol,T1095,,208
+Startup Items,T1165,,209
+Stored Data Manipulation,T1492,,210
+Sudo,T1169,,211
+Sudo Caching,T1206,,212
+Supply Chain Compromise,T1195,,213
+System Firmware,T1019,,214
+System Information Discovery,T1082,,215
+System Network Configuration Discovery,T1016,,216
+System Network Connections Discovery,T1049,,217
+System Owner/User Discovery,T1033,,218
+System Service Discovery,T1007,,219
+System Time Discovery,T1124,,220
+Systemd Service,T1501,,221
+Taint Shared Content,T1080,,222
+Template Injection,T1221,,223
+Third-party Software,T1072,,224
+Time Providers,T1209,,225
+Timestomp,T1099,,226
+Transmitted Data Manipulation,T1493,,227
+Trap,T1154,,228
+Trusted Developer Utilities,T1127,,229
+Trusted Relationship,T1199,,230
+Two-Factor Authentication Interception,T1111,,231
+Uncommonly Used Port,T1065,,232
+User Execution,T1204,,233
+Valid Accounts,T1078,,234
+Video Capture,T1125,,235
+Virtualization/Sandbox Evasion,T1497,,236
+Web Service,T1102,,237
+Web Shell,T1100,,238
+Windows Admin Shares,T1077,,239
+Windows Management Instrumentation,T1047,,240
+Windows Management Instrumentation Event Subscription,T1084,,241
+Windows Remote Management,T1028,,242
+Winlogon Helper DLL,T1004,,243
+XSL Script Processing,T1220,,244

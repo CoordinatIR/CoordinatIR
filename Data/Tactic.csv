@@ -1,0 +1,11 @@
+Name,Description,Internal ID
+Collection,,1
+Command and Control,,2
+Credential Access,,3
+Defense Evasion,,4
+Discovery,,5
+Execution,,6
+Exfiltration,,7
+Lateral Movement,,8
+Persistence,,9
+Privilege Escalation,,10

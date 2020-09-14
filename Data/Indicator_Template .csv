@@ -1,0 +1,5 @@
+Name,Default Observable Type,Description,Internal ID
+File,File,,1
+Network Connection,Network Connection,,2
+Process,Process,,3
+Registry Key,Registry Key,,4

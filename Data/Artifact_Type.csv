@@ -1,0 +1,97 @@
+Name,Search Type,Description,Internal ID
+authenticodeHash256,Unique,,1
+comment,Not Searchable,,2
+ctph,Unique,,3
+datetime,Soft Identifier,,4
+dns-soa-email,Soft Identifier,,5
+domain,Unique,,6
+domain|ip,Unique,,7
+email-attachment,Soft Identifier,,8
+email-dst,Soft Identifier,,9
+email-dst-display-name,Soft Identifier,,10
+email-header,Soft Identifier,,11
+email-message-id,Soft Identifier,,12
+email-mime-boundary,Soft Identifier,,13
+email-reply-to,Soft Identifier,,14
+email-src,Soft Identifier,,15
+email-src-display-name,Soft Identifier,,16
+email-subject,Soft Identifier,,17
+email-thread-index,Soft Identifier,,18
+email-x-mailer,Soft Identifier,,19
+filename,Soft Identifier,,20
+filename|authentihash,Soft Identifier,,21
+filename|impfuzzy,Soft Identifier,,22
+filename|imphash,Soft Identifier,,23
+filename|md5,Unique,,24
+filename|pehash,Unique,,25
+filename|sha1,Unique,,26
+filename|sha224,Unique,,27
+filename|sha256,Unique,,28
+filename|sha384,Unique,,29
+filename|sha512,Unique,,30
+filename|sha512/224,Unique,,31
+filename|sha512/256,Unique,,32
+filename|ssdeep,Unique,,33
+hostname,Soft Identifier,,34
+hostname|port,Soft Identifier,,35
+http-method,Soft Identifier,,36
+ip-dst,Soft Identifier,,37
+ip-dst|port,Soft Identifier,,38
+ip-dstport,Soft Identifier,,39
+ip-src,Soft Identifier,,40
+ip-src|port,Soft Identifier,,41
+link,Soft Identifier,,42
+lsHash,Unique,,43
+malware-sample,Soft Identifier,,44
+malware-type,Soft Identifier,,45
+md5,Unique,,46
+mutex,Soft Identifier,,47
+Name,Unique,,48
+named pipe,Soft Identifier,,49
+other,Not Searchable,,50
+path filename,,,51
+pattern-in-file,Soft Identifier,,52
+pattern-in-memory,Soft Identifier,,53
+pattern-in-traffic,Soft Identifier,,54
+payment-details,Soft Identifier,,55
+pdb,Soft Identifier,,56
+pehash,Soft Identifier,,57
+peSha1,Unique,,58
+peSha256,Unique,,59
+port,Soft Identifier,,60
+primary-residence,Soft Identifier,,61
+process account name,,,62
+process command line,,,63
+process elevated,,,64
+process full path,,,65
+process name,,,66
+process parent name,,,67
+registry hive,,,68
+registry key,,,69
+registry type value,,,70
+registry value,,,71
+regkey,Soft Identifier,,72
+regkey|value,Soft Identifier,,73
+sha1,Unique,,74
+sha224,Unique,,75
+sha256,Unique,,76
+sha384,Unique,,77
+sha512,Unique,,78
+sha512/224,Unique,,79
+sha512/256,Unique,,80
+Size,Not Searchable,,81
+size-in-bytes,Soft Identifier,,82
+ssdeep,Unique,,83
+text,Soft Identifier,,84
+uri,Soft Identifier,,85
+url,Soft Identifier,,86
+user-agent,Soft Identifier,,87
+whois-creation-date,Soft Identifier,,88
+whois-registrant-email,Soft Identifier,,89
+whois-registrant-name,Soft Identifier,,90
+whois-registrant-phone,Soft Identifier,,91
+whois-registrar,Soft Identifier,,92
+windows-scheduled-task,Soft Identifier,,93
+windows-service-displayname,Soft Identifier,,94
+windows-service-name,Soft Identifier,,95
+x509-fingerprint-sha1,Soft Identifier,,96
